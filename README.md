@@ -16,7 +16,9 @@ El flujo principal implementado en el notebook incluye:
 ---
 
 ## 📁 Estructura del repositorio
- Entregable_1_Data_clean_preprocessing
+ Entregable_2:_Churn
+
+```python
  
 ├── Entregable_2_Churn.ipynb # Notebook principal
 
@@ -47,6 +49,8 @@ El flujo principal implementado en el notebook incluye:
 ├── README.md 
 
 └── requirements.txt # Librerías necesarias.
+
+```
 
 
 ---
@@ -89,4 +93,5 @@ Consulta el archivo LICENSE para más detalles o visita la [descripción oficial
   📧 miiguelleon@gmail.com
   
   🔗 [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-garc%C3%ADa-le%C3%B3n/)
+
 
